@@ -1,7 +1,7 @@
 {
   "name": "bff",
   "version": "0.0.0",
-  "description": "Browserify Friend - it's like browserify was built into the browser.",
+  "description": "Browserify Friend - it's as if browserify was built into the browser.",
   "dependencies": {
     "Set": "~0.4.1",
     "browserify": "~2.25.0",
