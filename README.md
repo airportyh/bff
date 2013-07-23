@@ -1,7 +1,7 @@
 Browserify Friend
 ======================
 
-Browserify Friend (BFF) makes it as if browserify was built into the browser.
+Browserify Friend (BFF) - it is as if browserify was built into the browser.
 
 ## Install
 
