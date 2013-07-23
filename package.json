@@ -1,0 +1,22 @@
+{
+  "name": "bff",
+  "version": "0.0.0",
+  "description": "Browserify Friend - it's like browserify was built into the browser.",
+  "dependencies": {
+    "Set": "~0.4.1",
+    "browserify": "~2.25.0",
+    "ecstatic": "~0.4.5"
+  },
+  "bin": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "browserify",
+    "browser"
+  ],
+  "author": "Toby Ho",
+  "license": "MIT"
+}
