@@ -18,5 +18,9 @@
     "browser"
   ],
   "author": "Toby Ho",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airportyh/bff.git"
+  }
 }
