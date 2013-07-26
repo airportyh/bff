@@ -27,7 +27,7 @@ Now your site has been browserified within the `build` directory and it can be s
 
 ## Example
 
-To try this out, start in a new empty directory. Let's install `domify` a library to convert an html string into a DOM element
+To try this out, start in a new empty directory. Let's install `domify` - a library to convert an html string into a DOM element
 
     npm install domify
 
