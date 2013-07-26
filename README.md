@@ -48,6 +48,17 @@ Start the bff server
 
 Navigate to `http://localhost:3000` and see it work.
 
+Now, if you want to generate the site so that it can be served via a static web server like Apache or Nginx, use the `build` command
+
+    bff build
+
+Test it using the python web server
+
+    cd build
+    python -m SimpleHTTPServer
+
+Navigate to `http://localhost:8000` and see it work.
+
 
 
 
