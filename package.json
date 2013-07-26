@@ -7,7 +7,7 @@
     "browserify": "~2.25.0",
     "ecstatic": "~0.4.5"
   },
-  "bin": "server.js",
+  "bin": "cli.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
