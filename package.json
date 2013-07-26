@@ -17,6 +17,11 @@
     "browserify",
     "browser"
   ],
+  "files": [
+    "cli.js",
+    "lib",
+    "README.md"
+  ],
   "author": "Toby Ho",
   "license": "MIT",
   "repository": {
