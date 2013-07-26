@@ -59,6 +59,8 @@ Test it using the python web server
 
 Navigate to `http://localhost:8000` and see it work.
 
+## Requires
 
+BFF configures Browserify to make all top level files requirable. This means you can do `var domify = require('domify')` in the development console. You can also require any `.js` file in your app using relative paths, e.g. `var app = require('./app')`.
 
 
