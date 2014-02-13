@@ -4,7 +4,7 @@
   "description": "Browserify Friend - it's as if browserify was built into the browser.",
   "dependencies": {
     "Set": "~0.4.1",
-    "browserify": "~2.25.0",
+    "browserify": "~3.28.2",
     "ecstatic": "~0.4.5",
     "commander": "~2.0.0",
     "mkdirp": "~0.3.5",
